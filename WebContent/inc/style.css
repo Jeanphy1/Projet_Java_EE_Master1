@@ -1,0 +1,129 @@
+
+body
+{
+	background-color:rgb(224,227,228);
+}
+#field1
+{
+	width: 350px;
+	margin: auto;
+	background: rgb(38,43,45);
+	color:white;
+}
+
+#span1
+{
+	position: relative;
+	left:200px;
+	top:15px;
+}
+
+
+.bouton
+{
+	background: #1d1d1d;
+	color: white;
+}
+nav
+{
+	display:inline-block;
+	vertical-align: middle;
+	background: rgb(38,43,45);
+	width:300px;
+	height:600px;
+	margin-right:200px;
+}
+section
+{
+	display:inline-block;
+	vertical-align: middle;
+	
+}
+#text_sarl
+{
+	color:white;
+	
+}
+#bt0
+{
+	padding:0px;
+	margin:0px;
+	background-image: url("images/icone_croix_rouge.png") ;
+	background-color: rgb(38,43,45);;
+	background-repeat: no-repeat;
+	width:60px;
+	height:60px;
+	background-size: 60px;
+	border:0px;
+	position:relative;
+	left:0px;
+	top:490px;
+	
+}
+#bt1
+{
+	padding:0px;
+	margin:0px;
+	background-image: url("images/icone_portable.png") ;
+	background-color:rgb(224,227,228);
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	background-size: 100px;
+	border:0px;
+	
+}
+#bt2
+{
+	background-image: url("images/icone_bonhomme.png");
+	background-color:rgb(224,227,228);
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	background-size: 100px;
+	border:0px;
+	
+}
+#bt3
+{
+	background-image: url("images/icone_statistic.png");
+	background-color:rgb(224,227,228);
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	background-size: 100px;
+	border:0px;
+	
+}
+#bt4
+{
+	background-image: url("images/icone_classeur.png");
+	background-color:rgb(224,227,228);
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	background-size: 100px;
+	border:0px;
+	
+}
+#bt5
+{
+	background-image: url("images/icone_parametre.png");
+	background-color:rgb(224,227,228);
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	background-size: 100px;
+	border:0px;
+}
+
+
+table td
+{
+	padding-right:100px;
+	padding-bottom:60px;
+}
+
+
+
+
